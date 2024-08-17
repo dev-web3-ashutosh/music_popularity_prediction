@@ -2,9 +2,15 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 s_data=pd.read_csv("Spotify_data.csv")
+# delete redundant column
+s_data.drop(columns=['Unnamed: 0'], inplace=True)
+# print all the column names
+'''
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
-s_data.drop(columns=['Unnamed: 0'], inplace=True)
+s_data.show()
+'''
+# make scatterplots for few sample features
 features=['Energy', 'Valence', 'Danceability', 'Loudness', 'Acousticness']
 for feature in features:
     plt.figure(figsize=(8,5))
