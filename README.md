@@ -28,6 +28,14 @@ This project uses Spotify data and python libraries like pandas, matplotlib, sea
 - Similarly, Popularity seems to <b>fade away</b> if Loudness is too low or if Acousticness is increased
 - Valence has an unclear relation and hence suggests that the positivity associated with a soundtrack <b>does not impact Popularity much</b>
 <br></br>
+5. Now it's time to see the correlation between all the features using a heatmap.
+  <br></br>
+  For now, just focus on the 1st column in the heatmap. Remember that brighter colors (red) mean a strong relation with the target feature (Popularity in our case) and cooler   or   darker colors (blue) mean a weak or less effective relation.
+<br></br>
+![heatmap_correlation_matrix](https://github.com/user-attachments/assets/7d28a051-7f3f-4b2b-8519-6c8c71332849)
+<br></br>
+
+
 
 
 
