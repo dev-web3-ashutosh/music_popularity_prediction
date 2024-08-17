@@ -35,7 +35,7 @@ numeric_data=s_data[numeric_columns]
 #create correlation matrix
 corr_matrix=numeric_data.corr()
 
-# create heatwave map
+# create heatmap
 '''
 plt.figure(figsize=(12,8))
 sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', fmt='.2f', linewidths=0.5)
