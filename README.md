@@ -9,7 +9,7 @@ Some of the features are explained below:
 <br></br>
 <img width="619" alt="data_features" src="https://github.com/user-attachments/assets/55a37a29-f79c-4b10-a170-2ed0c93ad679">
 
-To gain initial perspective, we take 5 features and use matplotlib and seaborn libraries to visualise the relation between each of these and the target variable 'Popularity'.  The scatter plots are shown below:
+To gain initial perspective, we take 5 features and use matplotlib and seaborn libraries to visualize the relation between each of these and the target variable 'Popularity'.  The scatter plots are shown below:
 <br></br>
 ![p_vs_energy](https://github.com/user-attachments/assets/186c4959-dfe6-4bb9-a57a-eefafb1f8b74)
 <br></br>
