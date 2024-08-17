@@ -23,7 +23,11 @@ This project uses Spotify data and python libraries like pandas, matplotlib, sea
 <br></br>
 ![p_vs_acousticness](https://github.com/user-attachments/assets/a81e4bc6-0f3c-4309-b38e-2eca296ea4de)
 <br></br>
-4. 
+4. Visually inspecting the graphs above gives us a basic idea about the relation between these features and Popularity.
+- Energy and Danceability have a <b>positive relation</b> with Popularity
+- Similarly, Popularity seems to <b>fade away</b> if Loudness is too low or if Acousticness is increased
+- Valence has an unclear relation and hence suggests that the positivity associated with a soundtrack <b>does not impact Popularity much</b>
+<br></br>
 
 
 
