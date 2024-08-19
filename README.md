@@ -32,8 +32,19 @@ This project uses Spotify data and python libraries like pandas, matplotlib, sea
 <br></br>
 ![heatmap_correlation_matrix](https://github.com/user-attachments/assets/7d28a051-7f3f-4b2b-8519-6c8c71332849)
 <br></br>
-
-
+6. Now let's have a look at the distribution of the sample features.
+<br></br>
+![Distribution of Energy](https://github.com/user-attachments/assets/1fab60da-06c6-47e9-a153-f3a522d43816)
+<br></br>
+![Distribution of Danceability](https://github.com/user-attachments/assets/86d16fa0-c428-4f76-87b7-1548aa867cf8)
+<br></br>
+![Distribution of Loudness](https://github.com/user-attachments/assets/b4e86740-d540-4976-a7f1-e98ee4fc7d71)
+<br></br>
+![Distribution of Acousticness](https://github.com/user-attachments/assets/01b7aecb-6f97-48f3-8765-3784760b00eb)
+<br></br>
+![Distribution of Valence](https://github.com/user-attachments/assets/c9a55b12-eead-411a-9363-38cc0da967d8)
+<br></br>
+7. 
 
 
 
