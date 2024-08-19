@@ -1,5 +1,5 @@
 # music_popularity_prediction
-This project uses Spotify data and python libraries like pandas, matplotlib, seaborn, etc to find a correlation between a soundtrack's 'Popularity' and its various features. It further uses this information to predict the Popularity score for future soundtracks.
+This project uses Spotify data and python libraries like pandas, matplotlib, seaborn, etc to find a correlation between a soundtrack's 'Popularity' and its various features. It further uses this information to create a Machine Learning model which predicts the Popularity score for future soundtracks.
 
 1. Pandas library is used to read the csv file and a complete list of all the features associated with each track alongwith its count and data type is as shown below:
 <br></br>
