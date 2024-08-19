@@ -42,3 +42,12 @@ sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', fmt='.2f', linewidths=0.5)
 plt.title('Correlation Matrix')
 plt.show()
 '''
+
+# let's have a look at distribution of sample features
+'''
+for feature in features:
+    plt.figure(figsize=(8,5))
+    sns.histplot(s_data[feature], kde=True)
+    plt.title(f'(Distribution of {feature})')
+    plt.show()
+'''
