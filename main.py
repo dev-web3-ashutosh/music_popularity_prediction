@@ -91,7 +91,7 @@ y_pred_best_rf=best_rf_model.predict(x_test_scaled)
 # show actual vs predicted popularity
 plt.figure(figsize=(10,6))
 plt.scatter(y_test, y_pred_best_rf, alpha=0.7)
-plt.plot([min(y_test), max(y_test)], [min(y_test), max(y_test)], color='red', linewidth=2)
+plt.plot([min(y_test), max(y_test)], [min(y_pred_best_rf), max(y_pred_best_rf)], color='red', linewidth=2)
 plt.xlabel('Actual Popularity')
 plt.ylabel('Predicted Popularity')
 plt.title(f'Actual vs Predicted Popularity (Best Random Forest Model)')
