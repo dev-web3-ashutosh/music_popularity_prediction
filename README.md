@@ -42,7 +42,7 @@ This project uses Spotify data and python libraries like pandas, matplotlib, sea
 <br></br>
 ![Distribution of Acousticness](https://github.com/user-attachments/assets/01b7aecb-6f97-48f3-8765-3784760b00eb)
 <br></br>
-![Distribution of Valence](https://github.com/user-attachments/assets/c9a55b12-eead-411a-9363-38cc0da967d8)
+![Distribution of Valence](https://github.com/user-attachments/assets/6cdc1feb-b75c-412c-87a6-3a415b894b75)
 <br></br>
 7. 
 
