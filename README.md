@@ -11,9 +11,9 @@ This project uses Spotify data and python libraries like pandas, matplotlib, sea
 <br></br>
 3. To gain initial perspective, we take 5 features and use matplotlib and seaborn libraries to visualize the relation between each of these and the target variable 'Popularity'.  The scatter plots are shown below:
 <br></br>
-![p_vs_energy](https://github.com/user-attachments/assets/186c4959-dfe6-4bb9-a57a-eefafb1f8b74)
+![p_vs_energy](https://github.com/user-attachments/assets/a3b49d51-3a8d-4f04-a51e-b06ff3a1f9ff)
 <br></br>
-![p_vs_valence](https://github.com/user-attachments/assets/73a77453-296d-43db-9127-9301292042f6)
+![p_vs_valence](https://github.com/user-attachments/assets/fbdade38-7975-4d45-a133-cbc30d749f18)
 <br></br>
 ![p_vs_danceability](https://github.com/user-attachments/assets/f030dadc-2126-45fe-9a5c-028ba8df359c)
 <br></br>
