@@ -40,13 +40,13 @@ For now, just focus on the 1st column in the heatmap. Remember that brighter col
 <br></br>
 <img width="500" alt="[Distribution of Energy" src="https://github.com/user-attachments/assets/1fab60da-06c6-47e9-a153-f3a522d43816">
 <br></br>
-<img width="500" alt="[Distribution of Danceability" src="https://github.com/user-attachments/assets/86d16fa0-c428-4f76-87b7-1548aa867cf8)">
+<img width="500" alt="[Distribution of Danceability" src="https://github.com/user-attachments/assets/86d16fa0-c428-4f76-87b7-1548aa867cf8">
 <br></br>
-<img width="500" alt="[Distribution of Loudness" src="https://github.com/user-attachments/assets/b4e86740-d540-4976-a7f1-e98ee4fc7d71)">
+<img width="500" alt="[Distribution of Loudness" src="https://github.com/user-attachments/assets/b4e86740-d540-4976-a7f1-e98ee4fc7d71">
 <br></br>
-<img width="500" alt="[Distribution of Acousticness" src="https://github.com/user-attachments/assets/01b7aecb-6f97-48f3-8765-3784760b00eb)">
+<img width="500" alt="[Distribution of Acousticness" src="https://github.com/user-attachments/assets/01b7aecb-6f97-48f3-8765-3784760b00eb">
 <br></br>
-<img width="500" alt="[Distribution of Valence" src="https://github.com/user-attachments/assets/6cdc1feb-b75c-412c-87a6-3a415b894b75)">
+<img width="500" alt="[Distribution of Valence" src="https://github.com/user-attachments/assets/6cdc1feb-b75c-412c-87a6-3a415b894b75">
 <br></br>
 7. 
 
