@@ -14,15 +14,15 @@ Libraries used -
 <br></br>
 3. To gain initial perspective, we take 5 features and use matplotlib and seaborn libraries to visualize the relation between each of these and the target variable 'Popularity'.  The scatter plots are shown below:
 <br></br>
-![p_vs_energy](https://github.com/user-attachments/assets/a3b49d51-3a8d-4f04-a51e-b06ff3a1f9ff)
+<img width="500" alt="p_vs_energy" src="https://github.com/user-attachments/assets/49823563-e7ba-45f2-ba4b-70732a738651">
 <br></br>
-![p_vs_valence](https://github.com/user-attachments/assets/fbdade38-7975-4d45-a133-cbc30d749f18)
+<img width="500" alt="p_vs_valence" src="https://github.com/user-attachments/assets/fbdade38-7975-4d45-a133-cbc30d749f18">
 <br></br>
-![p_vs_danceability](https://github.com/user-attachments/assets/f030dadc-2126-45fe-9a5c-028ba8df359c)
+<img width="500" alt="p_vs_danceability" src="https://github.com/user-attachments/assets/f030dadc-2126-45fe-9a5c-028ba8df359c">
 <br></br>
-![p_vs_loudness](https://github.com/user-attachments/assets/9eebf2ef-1ff3-49c4-ae73-a414f8204549)
+<img width="500" alt="p_vs_loudness" src="https://github.com/user-attachments/assets/9eebf2ef-1ff3-49c4-ae73-a414f8204549">
 <br></br>
-![p_vs_acousticness](https://github.com/user-attachments/assets/a81e4bc6-0f3c-4309-b38e-2eca296ea4de)
+<img width="500" alt="p_vs_acousticness" src="https://github.com/user-attachments/assets/a81e4bc6-0f3c-4309-b38e-2eca296ea4de">
 <br></br>
 4. Visually inspecting the graphs above gives us a basic idea about the relation between these features and Popularity.
 <ul>
@@ -33,9 +33,9 @@ Libraries used -
 <br></br>
 5. Now it's time to see the correlation between all the features using a heatmap.
   <br></br>
-  For now, just focus on the 1st column in the heatmap. Remember that brighter colors (red) mean a strong relation with the target feature (Popularity in our case) and cooler   or   darker colors (blue) mean a weak or less effective relation.
+For now, just focus on the 1st column in the heatmap. Remember that brighter colors (red) mean a strong relation with the target feature (Popularity in our case) and cooler  or   darker colors (blue) mean a weak or less effective relation.
 <br></br>
-![heatmap_correlation_matrix](https://github.com/user-attachments/assets/7d28a051-7f3f-4b2b-8519-6c8c71332849)
+<img width="620" alt="heatmap_correlation_matrix" src="https://github.com/user-attachments/assets/7d28a051-7f3f-4b2b-8519-6c8c71332849">
 <br></br>
 6. Now let's have a look at the distribution of the sample features.
 <br></br>
