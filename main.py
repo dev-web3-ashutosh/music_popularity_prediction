@@ -74,7 +74,7 @@ x_test_scaled=scaler.transform(x_test)
 # define parameter grid for Random Forest
 param_grid={
     'n_estimators': [50,100,200],
-    'max_features': ['aoto', 'sqrt', 'log2'],
+    'max_features': ['auto', 'sqrt', 'log2'],
     'max_depth': [10, 20, 30, None],
     'min_samples_split': [2,5,10],
     'min_samples_leaf': [1,2,4]
