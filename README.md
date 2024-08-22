@@ -1,5 +1,8 @@
 # music_popularity_prediction
 This project uses Spotify data and python libraries like pandas, matplotlib, seaborn, etc to find a correlation between a soundtrack's 'Popularity' and its various features. It further uses this information to create a Machine Learning model which predicts the Popularity score for future soundtracks.
+<br></br>
+Libraries used -
+<ul><li>pandas</li><li>matplotlib.pyplot</li><li>seaborn</li><li>sklearn</li></ul>
 
 1. Pandas library is used to read the csv file and a complete list of all the features associated with each track alongwith its count and data type is as shown below:
 <br></br>
@@ -22,9 +25,11 @@ This project uses Spotify data and python libraries like pandas, matplotlib, sea
 ![p_vs_acousticness](https://github.com/user-attachments/assets/a81e4bc6-0f3c-4309-b38e-2eca296ea4de)
 <br></br>
 4. Visually inspecting the graphs above gives us a basic idea about the relation between these features and Popularity.
-- Energy and Danceability have a <b>positive relation</b> with Popularity
-- Similarly, Popularity seems to <b>fade away</b> if Loudness is too low or if Acousticness is increased
-- Valence has an unclear relation and hence suggests that the positivity associated with a soundtrack <b>does not impact Popularity much</b>
+<ul>
+<li>Energy and Danceability have a <b>positive relation</b> with Popularity</li>
+<li>Similarly, Popularity seems to <b>fade away</b> if Loudness is too low or if Acousticness is increased</li>
+<li>Valence has an unclear relation and hence suggests that the positivity associated with a soundtrack <b>does not impact Popularity much</b></li>
+</ul>
 <br></br>
 5. Now it's time to see the correlation between all the features using a heatmap.
   <br></br>
