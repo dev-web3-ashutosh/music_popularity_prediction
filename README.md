@@ -38,7 +38,7 @@ For now, just focus on the 1st column in the heatmap. Remember that brighter col
 <br></br>
 6. Now let's have a look at the distribution of the sample features.
 <br></br>
-![Distribution of Energy](https://github.com/user-attachments/assets/1fab60da-06c6-47e9-a153-f3a522d43816)
+<img width="500" alt="[Distribution of Energy" src="https://github.com/user-attachments/assets/1fab60da-06c6-47e9-a153-f3a522d43816">
 <br></br>
 ![Distribution of Danceability](https://github.com/user-attachments/assets/86d16fa0-c428-4f76-87b7-1548aa867cf8)
 <br></br>
