@@ -3,7 +3,7 @@ This project uses Spotify data and python libraries like pandas, matplotlib, sea
 <br></br>
 Libraries used -
 <ul><li>pandas</li><li>matplotlib.pyplot</li><li>seaborn</li><li>sklearn</li></ul>
-
+<br></br>
 1. Pandas library is used to read the csv file and a complete list of all the features associated with each track alongwith its count and data type is as shown below:
 <br></br>
 <img width="354" alt="data_info" src="https://github.com/user-attachments/assets/3bdfab77-d8f7-4f8a-bedf-3816370250f1">
@@ -32,7 +32,6 @@ Libraries used -
 </ul>
 <br></br>
 5. Now it's time to see the correlation between all the features using a heatmap.
-  <br></br>
 For now, just focus on the 1st column in the heatmap. Remember that brighter colors (red) mean a strong relation with the target feature (Popularity in our case) and cooler  or   darker colors (blue) mean a weak or less effective relation.
 <br></br>
 <img width="620" alt="heatmap_correlation_matrix" src="https://github.com/user-attachments/assets/7d28a051-7f3f-4b2b-8519-6c8c71332849">
